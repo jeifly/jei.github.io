@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "극단 성시어터라인 SungTheatreLine"
+title                    : "Sung･Theatre･Line"
 title_separator          : "|"
 subtitle                 : "연극이 개입하는 당신의 모든 일상 Everyday life with artistic intervention"
 name                     : "Gatekeeper of the Sung"
